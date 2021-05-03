@@ -53,6 +53,7 @@ homeassistant.components.number.*
 homeassistant.components.onewire.*
 homeassistant.components.persistent_notification.*
 homeassistant.components.proximity.*
+homeassistant.components.rako.*
 homeassistant.components.recorder.purge
 homeassistant.components.recorder.repack
 homeassistant.components.recorder.statistics
